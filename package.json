@@ -1,0 +1,27 @@
+{
+  "name": "fraggr",
+  "version": "1.0.0",
+  "description": "A tool for running/playing the Fragged Empire RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrprim/fraggr.git"
+  },
+  "keywords": [
+    "Fragged",
+    "Empire",
+    "RPG"
+  ],
+  "author": "Sergio Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrprim/fraggr/issues"
+  },
+  "homepage": "https://github.com/mrprim/fraggr#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
